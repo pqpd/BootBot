@@ -1,2 +1,2 @@
-# uno
-print("hello world")
+# 24 h
+print("I want to sleep")
