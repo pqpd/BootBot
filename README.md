@@ -1,2 +1,1 @@
-# 24 h
-print("I want to sleep")
+# BootBot is my first git project!
